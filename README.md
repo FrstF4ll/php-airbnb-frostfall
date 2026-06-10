@@ -141,7 +141,7 @@ Then restart: `./vendor/bin/sail down && ./vendor/bin/sail up -d`
 
 ## Tech Stack
 
-- **Framework:** Laravel 11
+- **Framework:** Laravel 13
 - **Runtime:** PHP 8.5 (via Laravel Sail)
 - **Database:** PostgreSQL 18
 - **Frontend:** Vite
